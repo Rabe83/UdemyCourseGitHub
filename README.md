@@ -1,2 +1,2 @@
 # UdemyCourseGitHub
-just a test code
+just a test code program
